@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadingSync1", "ThreadingSync1\ThreadingSync1.csproj", "{DC116896-612A-4D21-BB9E-B253F077F9EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC116896-612A-4D21-BB9E-B253F077F9EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC116896-612A-4D21-BB9E-B253F077F9EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC116896-612A-4D21-BB9E-B253F077F9EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC116896-612A-4D21-BB9E-B253F077F9EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {372CFB38-CCB3-4081-A6ED-C660FCFEC3C1}
+	EndGlobalSection
+EndGlobal
